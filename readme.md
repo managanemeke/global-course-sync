@@ -1,4 +1,4 @@
-# team-assessment
+# global-course-sync
 
 version: **0.0.1**
 
